@@ -1,0 +1,12 @@
+src/font.asm
+src/chessboard.asm
+src/chessmen.asm
+src/globals.asm
+src/globals.c
+src/bank.c
+src/dma.c
+src/sprites.c
+src/ula.asm
+src/ula.c
+src/layer2.c
+src/main.c
