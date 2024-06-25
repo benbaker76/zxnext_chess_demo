@@ -14,7 +14,7 @@ a Sinclair ZX Spectrum emulator [CSpect](https://dailly.blogspot.com/) or
 "Clone or download" button at the top of this page or with Git using the
 following command:
 
-> git clone https://github.com/headkaze/zxnext_chess_demo.git
+> git clone https://github.com/benbaker76/zxnext_chess_demo.git
 
 3. Go to the zxnext_chess_demo directory and enter the following command:
 
